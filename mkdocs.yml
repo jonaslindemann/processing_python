@@ -1,0 +1,6 @@
+site_name: Koda i Python med Processing
+
+pages:
+- Börja koda: koda.md
+
+theme: readthedocs
