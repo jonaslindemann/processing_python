@@ -1,7 +1,6 @@
 site_name: Koda i Python med Processing
 
 pages:
-- Hem: index.md
-- Börja koda: koda.md
+- Börja koda: index.md
 
 theme: readthedocs
