@@ -1,1 +1,0 @@
-# Programmera Python i Processing
